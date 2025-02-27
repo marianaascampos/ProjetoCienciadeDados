@@ -35,6 +35,7 @@ Base de Dados retiradas do site Kaggle: Airbnb Rio de Janeiro
 O projeto está sendo desenvolvido como parte do portfólio do curso de Python da plataforma Hashtag Treinamentos.
 
 Expectativas Iniciais
-A sazonalidade pode ser um fator crucial para a análise, uma vez que a quantidade de turistas do Rio de Janeiro é maior em meses de férias e feriados prolongados.
-A localização é outro fator importante para a formação do preço, e áreas turísticas, seguras e com atrativos naturais são mais caras.
-As funcionalidades e acomodações do imóvel impactam diretamente no preço final do imóvel.
+
+1. A sazonalidade pode ser um fator crucial para a análise, uma vez que a quantidade de turistas do Rio de Janeiro é maior em meses de férias e feriados prolongados.
+2. A localização é outro fator importante para a formação do preço, e áreas turísticas, seguras e com atrativos naturais são mais caras.
+3. As funcionalidades e acomodações do imóvel impactam diretamente no preço final do imóvel.
